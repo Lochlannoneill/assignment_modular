@@ -1,0 +1,7 @@
+12345,Minnie,Mouse,minnie.mouse@cit.ie,12344.43
+23456,Bugs,Bunny,bugs.bunny@cit.ie,5436.43
+67581,Wiley,Coyote,wiley.coyote@cit.ie,23456.64
+54678,Clint,Smith,clint.smith@cit.ie,2345.43
+74832,Lochlann,Oneill,lochlann.oneill@cit.ie,99999.99
+13696,Lochlann,Carroll,lochlann.carroll@cit.ie,99999.99
+74506,Lochlann,Carroll,lochlann.carroll619@cit.ie,23696.43
